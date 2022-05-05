@@ -23,5 +23,4 @@ I am a systems analysis and development student at Estácio de Sá.
 </div><br>
 
 ![Nycolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NycolasC&show_icons=true&theme=tokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NycolasC&layout=compact)](https://github.com/NyolasC/github-readme-stats)
