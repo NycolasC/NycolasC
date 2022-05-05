@@ -22,5 +22,4 @@ I am a systems analysis and development student at Estácio de Sá.
 <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "alt="GitHub">
 </div><br>
 
-![Nycolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NycolasC&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NycolasC&layout=compact)](https://github.com/NyolasC/github-readme-stats)
+![Nycolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NycolasC&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NycolasC&layout=compact)](https://github.com/NyolasC/github-readme-stats)
