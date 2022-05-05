@@ -1,8 +1,7 @@
 
 ## Hi! My name is Nycolas 👋🏽 ##
----
+
 ### Estudante de tecnologia Full-Stack ###
----
 
 I love coding and figuring out how to solve deep problems using cutting edge technology. My main focus is Full-Stack development.
 
